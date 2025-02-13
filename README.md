@@ -14,7 +14,7 @@ torchvision \--- 0.15.1+cu118
 ### Dataset (`data.mat`)
 
 ```
-- `data.mat` is a MATLAB-formatted dataset used as input for the model.
+- data.mat is a MATLAB-formatted dataset used as input for the model.
 - data['X']: Count matrix, where each row represents a cell and each column represents a feature (e.g., gene expression counts).
 - data['Y']: Ground truth labels for each cell.
 ```
