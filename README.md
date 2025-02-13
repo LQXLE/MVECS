@@ -1,4 +1,5 @@
 ## scMVAF
+scMVAF is a multi-view integrated clustering framework that enhances feature diversity by fusing features from multiple perspectives to facilitate the identification of cell subtypes. The adaptive fusion of different perspectives enhances the representation learning of data, and the complementarity between perspectives helps to more comprehensively capture the diversity and complexity of data, thereby improving the robustness of clustering.
 
 ### Requirements
 
