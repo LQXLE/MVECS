@@ -22,10 +22,10 @@ torchvision \--- 0.15.1+cu118 <br>
 
 ### Examples
 
-The datasets folder includes the preprocessed Quake_Smart-seq2_Limb_Muscle dataset, Deng dataset, and PBMC-Zheng4k dataset. To use a different dataset, you need to modify the following code:
+The datasets folder includes the preprocessed deng dataset. To use a different dataset, you need to modify the following code:
 
 ```python
-parser.add_argument('--data_name', default='goolam')
+parser.add_argument('--data_name', default='deng')
 ```
 
 ### Run
