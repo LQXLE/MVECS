@@ -2,14 +2,14 @@
 
 ### Requirements
 
-python \--- 3.9.19
-numpy \--- 1.24.4
-pandas \--- 1.5.3
-scanpy \--- 1.10.0
-scikit-learn ---1.4.1.post1
-torch \--- 2.0.0+cu118
-torchaudio \--- 2.0.1+cu118
-torchvision \--- 0.15.1+cu118
+python \--- 3.9.19 <br>
+numpy \--- 1.24.4 <br>
+pandas \--- 1.5.3 <br>
+scanpy \--- 1.10.0 <br>
+scikit-learn ---1.4.1.post1 <br>
+torch \--- 2.0.0+cu118 <br>
+torchaudio \--- 2.0.1+cu118 <br>
+torchvision \--- 0.15.1+cu118 <br>
 
 ### Dataset (`data.mat`)
 
