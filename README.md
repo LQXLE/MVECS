@@ -12,7 +12,7 @@ torch \--- 2.0.0+cu118 <br>
 torchaudio \--- 2.0.1+cu118 <br>
 torchvision \--- 0.15.1+cu118 <br>
 
-### Dataset (`data.mat`)
+### Dataset (data.mat)
 
 ```
 - data.mat is a MATLAB-formatted dataset used as input for the model.
